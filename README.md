@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Muhammad Talha Saleem, a Flutter Developer with 3+ years of experience in mobile app development.<br>I have successfully built and delivered 30+ Flutter applications.<br>I am proficient in state management using GetX, Provider, and BLoC.<br>I have strong experience with REST APIs and GraphQL integration.<br>I work extensively with Firebase including authentication and cloud services.<br>I have implemented map-based features using Google Maps.<br>I am skilled in local data storage using Hive and SQLite.<br>I have experience building real-time features with WebSockets.<br>I also work as a Flutter Trainer, mentoring and guiding developers.<br>I focus on building scalable, maintainable, and high-quality applications.
+Flutter Developer | 3+ Years | 30+ Apps Delivered
+3 years of Flutter. 30+ production apps shipped. Not prototypes, not demos real apps that people actually use every day.
+The stack covers everything a modern mobile app needs Flutter & Dart, Firebase, REST APIs, GraphQL, GetX, Provider, BLoC, Google Maps, calling SDKs (Agora/ZEGOCLOUD), real-time chat via WebSocket, Hive, SQLite, payment gateways, and in-app purchases for both Android and iOS. Full deployment too App Store and Google Play, start to finish.
+Also work as a Flutter Trainer helping developers understand the framework properly and skip the mistakes I already made for them.
+Clean code. Solid architecture. Apps that hold up in production. Every time
 
 
 ## 🌐 Socials:
